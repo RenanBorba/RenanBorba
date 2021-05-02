@@ -1,4 +1,8 @@
+<div align="center"> 
+
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEr5LJGzyO40A/profile-displaybackgroundimage-shrink_200_800/0/1594411235767?e=1625702400&v=beta&t=A3B7e7KgLieZjxr1S7bjAROAotOvSCfXGugPA8VOpoU">
+
+</div>
 
 # Hi, I'm Renan! / Olá, eu sou o Renan! 👋
 
