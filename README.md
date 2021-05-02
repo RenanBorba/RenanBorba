@@ -12,3 +12,5 @@
 
 ### About me / Sobre mim 🚀
 Há mais de 7 anos em constante capacitação técnica, participações em estágios e ocupações na área da TI. Técnico de nível médio em Informática (2014), graduado no curso de Bacharelado em Sistemas de Informação (2018), entusiasta e generalista na área da tecnologia, 24 anos. 
+
+💻📱
