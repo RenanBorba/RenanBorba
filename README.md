@@ -15,8 +15,4 @@ Há mais de 7 anos em constante capacitação técnica, participações em está
 
 For more than 7 years in constant technical training, participation in internships and occupations in the IT area. Mid-level computer technician (2014), graduated in the Bachelor of Information Systems course (2018), enthusiast and generalist in the area of technology, 24 years old.
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba)](https://github.com/RenanBorba/github-readme-stats)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanBorba)](https://github.com/RenanBorba/github-readme-stats)
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=RenanBorba&row=1)](https://github.com/RenanBorba/github-profile-trophy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanBorba)](https://github.com/RenanBorba/github-readme-stats) [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba)](https://github.com/RenanBorba/github-readme-stats)
