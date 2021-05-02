@@ -19,8 +19,8 @@ For more than 7 years in constant technical training, participation in internshi
   
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba)](https://github.com/RenanBorba/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanBorba)](https://github.com/RenanBorbagithub-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanBorba)](https://github.com/RenanBorba/github-readme-stats)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=RenanBorba&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=RenanBorba&row=1)](https://github.com/RenanBorba/github-profile-trophy)
 
 </div>
