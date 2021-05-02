@@ -17,9 +17,9 @@ For more than 7 years in constant technical training, participation in internshi
 
 <div align="center"> 
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanBorba)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanBorba)](https://github.com/RenanBorbagithub-readme-stats)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=RenanBorba&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=RenanBorba)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
