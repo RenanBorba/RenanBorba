@@ -18,6 +18,6 @@ For more than 7 years in constant technical training, participation in internshi
 
 <div align="center"> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact)](https://github.com/RenanBorba) &nbsp; [![RenanBorba's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba)](https://github.com/RenanBorba?tab=repositories)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBorba&show_icons=true) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact)](https://github.com/RenanBorba) 
 
 </div>
