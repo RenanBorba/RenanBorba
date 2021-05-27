@@ -12,7 +12,7 @@
 
 
 ### About me / Sobre mim 🚀
-Há mais de 7 anos em constante capacitação técnica, participações em estágios e ocupações na área da TI. Técnico de nível médio em Informática (2014), graduado no curso de Bacharelado em Sistemas de Informação (2018), entusiasta e generalista na área da tecnologia, 24 anos. 
-<br> For more than 7 years in constant technical training, participation in internships and occupations in the IT area. Mid-level computer technician (2014), graduated in the Bachelor of Information Systems course (2018), enthusiast and generalist in the area of technology, 24 years old.
+Há mais de 8 anos em constante capacitação técnica, participações em estágios e ocupações na área da TI. Técnico de nível médio em Informática (2014), graduado no curso de Bacharelado em Sistemas de Informação (2018), entusiasta e generalista na área da tecnologia, 24 anos. 
+<br> For more than 8 years in constant technical training, participation in internships and occupations in the IT area. Mid-level computer technician (2014), graduated in the Bachelor of Information Systems course (2018), enthusiast and generalist in the area of technology, 24 years old.
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBorba&show_icons=true)](https://github.com/RenanBorba?tab=overview&from=2021-05-01&to=2021-05-10) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact)](https://github.com/RenanBorba?tab=repositories) 
