@@ -7,11 +7,10 @@
 
 <img src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif">
 
-</div>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-borba-95b294a3/)](https://www.linkedin.com/in/renan-borba-95b294a3/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/renanborba2)](https://www.behance.net/renanborba2)
-
+  
+</div>
 
 ### About me / Sobre mim 🚀
 [PT] <br>
