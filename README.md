@@ -5,7 +5,7 @@
   
 # Hi, I'm Renan! / Olá, eu sou o Renan! 👋
 
-<img src="https://media.giphy.com/media/2f2nUKxELzqMQA6GEh/giphy-downsized-large.gif">
+<img src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif">
 
 </div>
 
