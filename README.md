@@ -1,10 +1,13 @@
-<div align="center"> 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQEr5LJGzyO40A/profile-displaybackgroundimage-shrink_350_1400/0/1594411235767?e=1643846400&v=beta&t=wA-mGoQ0feHTnj9XPVjYiYrOU1TtFzd2I2jX4q5OBHk">
+
+
+<div align="center"> 
+  
+# Hi, I'm Renan! / Olá, eu sou o Renan! 👋
+
+<img src="https://media.giphy.com/media/2f2nUKxELzqMQA6GEh/giphy-downsized-large.gif">
 
 </div>
-
-# Hi, I'm Renan! / Olá, eu sou o Renan! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-borba-95b294a3/)](https://www.linkedin.com/in/renan-borba-95b294a3/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/renanborba2)](https://www.behance.net/renanborba2)
