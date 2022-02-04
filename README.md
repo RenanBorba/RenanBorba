@@ -19,6 +19,8 @@ Há mais de 8 anos em constante capacitação técnica, participações em está
 *[ENG] <br>
 For more than 8 years in constant technical training, participation in internships and occupations in the IT area. Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), IT equipment maintenance technician at Bebedouro Regional Hospital (Hospital de Amor), specializing in the Post-Graduation Lato Sensu in Digital Health at UFG, enthusiast and generalist in the field of technology, 25 years old.*
 
+<br>
+
 <div align="right"> 
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBorba&show_icons=true)](https://github.com/RenanBorba?tab=overview&from=2021-05-01&to=2021-05-10) <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact)](https://github.com/RenanBorba?tab=repositories) 
