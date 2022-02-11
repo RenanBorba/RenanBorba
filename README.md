@@ -9,7 +9,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-borba-95b294a3/)](https://www.linkedin.com/in/renan-borba-95b294a3/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/renanborba2)](https://www.behance.net/renanborba2) 
-![](https://komarev.com/ghpvc/?username=RenanBorba)
 
 
 </div>
@@ -28,3 +27,4 @@ For more than 8 years in constant technical training, participation in internshi
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBorba&show_icons=true&theme=blue-green)](https://github.com/RenanBorba?tab=overview&from=2021-05-01&to=2021-05-10) <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=blue-green)](https://github.com/RenanBorba?tab=repositories) 
 
 </div>
+
