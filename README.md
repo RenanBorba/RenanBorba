@@ -5,8 +5,6 @@
   
 # Hi, I'm Renan! / Olá, eu sou o Renan! 👨‍🚀
 
-<br>
-
 <img src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-borba-95b294a3/)](https://www.linkedin.com/in/renan-borba-95b294a3/)
