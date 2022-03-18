@@ -34,7 +34,7 @@ For more than 8 years in constant technical training, participation in internshi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories) 
 
   
-<br>
+<br><br>
 
 ### 📧 Contato/Contact: renandbm.rb@gmail.com
 </div>
