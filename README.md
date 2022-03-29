@@ -17,10 +17,10 @@
 ## About me / Sobre mim 🚀
 
 💼 [PT] <br>
-Há mais de 8 anos em constante capacitação técnica, participações em estágios e ocupações na área da TI. Técnico de nível médio em Informática pelo SENAC (2014), graduado no curso de Bacharelado em Sistemas de Informação pelo Centro Universitário UNIFAFIBE (2018), Técnico em manutenção de equipamentos de informática no Hospital Regional de Bebedouro (Hospital de Amor), especializando-se na Pós-Graduação Lato Sensu em Saúde Digital da UFG, entusiasta e generalista na área da tecnologia, 25 anos.
+Há mais de 8 anos em constante capacitação técnica, participações em estágios e ocupações na área da TI. Técnico de nível médio em Informática pelo SENAC (2014), graduado no curso de Bacharelado em Sistemas de Informação pelo Centro Universitário UNIFAFIBE (2018), Técnico em manutenção de equipamentos de informática no Hospital Regional de Bebedouro, especializando-se na Pós-Graduação Lato Sensu em Saúde Digital da UFG, entusiasta e generalista na área da tecnologia, 25 anos.
 <br><br>
 *💼 [ENG] <br>
-For more than 8 years in constant technical training, participation in internships and occupations in the IT area. Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), IT equipment maintenance technician at Bebedouro Regional Hospital (Hospital de Amor), specializing in the Post-Graduation Lato Sensu in Digital Health at UFG, enthusiast and generalist in the field of technology, 25 years old.*
+For more than 8 years in constant technical training, participation in internships and occupations in the IT area. Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), IT equipment maintenance technician at Bebedouro Regional Hospital, specializing in the Post-Graduation Lato Sensu in Digital Health at UFG, enthusiast and generalist in the field of technology, 25 years old.*
 
 <div align="left"> 
 
