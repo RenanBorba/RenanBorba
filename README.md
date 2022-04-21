@@ -1,5 +1,4 @@
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=140&section=header"/>
 
 <div align="center"> 
   
@@ -33,9 +32,7 @@ For more than 8 years in constant technical training, participation in internshi
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories) 
 
-  
-<br><br>
-                 
+       
 </div>
 
 <div align="right"> 
@@ -43,7 +40,9 @@ For more than 8 years in constant technical training, participation in internshi
 ### 📧 Contato/Contact: renandbm.rb@gmail.com
 
 </div>
-   
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=120&section=footer"/>
+
 
 
 
