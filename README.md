@@ -3,8 +3,8 @@
 
 <div align="center"> 
   
-# Hi, I'm Renan! / Olá, eu sou o Renan! 👨‍🚀
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Black&size=36&duration=9000&color=3290F7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Renan!+%2F+Ol%C3%A1%2C+eu+sou+o+Renan!)](https://git.io/typing-svg)
+  
 <img src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-borba-95b294a3/)](https://www.linkedin.com/in/renan-borba-95b294a3/)
@@ -14,7 +14,7 @@
 
 <br>
 
-## About me / Sobre mim 🚀
+## About me / Sobre mim 🚀👨‍🚀
 
 💼 [PT] <br>
 Há mais de 8 anos em constante capacitação técnica, participações em estágios e ocupações na área da TI. Técnico de nível médio em Informática pelo SENAC (2014), graduado no curso de Bacharelado em Sistemas de Informação pelo Centro Universitário UNIFAFIBE (2018), Técnico em manutenção de equipamentos de informática no Hospital Regional de Bebedouro, especializando-se na Pós-Graduação Lato Sensu em Saúde Digital da UFG, entusiasta e generalista na área da tecnologia, 25 anos.
