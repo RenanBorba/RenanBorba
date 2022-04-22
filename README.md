@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header"/>
 
 <div align="center"> 
   
@@ -48,7 +48,7 @@ behance.net/renanborba2
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=150&section=footer"/>
 
 
 
