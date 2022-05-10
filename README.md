@@ -42,9 +42,9 @@ For more than 8 years in constant technical training, participation in internshi
 <br>
 renandbm.rb@gmail.com
 <br>
-linkedin.com/in/renan-borba-95b294a3/
+[linkedin.com/in/renan-borba-95b294a3/](LinkedIn)
 <br>
-behance.net/renanborba2
+[behance.net/renanborba2](Behance)
 
 </div>
 
