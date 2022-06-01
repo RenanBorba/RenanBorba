@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Black&size=36&duration=9000&color=3290F7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Renan!+%2F+Ol%C3%A1%2C+eu+sou+o+Renan!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Black&size=36&duration=9000&color=5199F9&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Renan!+%2F+Ol%C3%A1%2C+eu+sou+o+Renan!)](https://git.io/typing-svg)
   
 <img src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif">
 
