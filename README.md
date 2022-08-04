@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header"/>
 
-<img align="right" width="342" height="348" src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif"/>
+<img align="right" width="342" height="354" src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif"/>
 
 <H1> About me / Sobre mim 🚀👨‍🚀 </H1>
 
