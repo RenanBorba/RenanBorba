@@ -16,7 +16,7 @@ For more than 8 years in constant technical training, participation in internshi
 ![5reagir](https://user-images.githubusercontent.com/48495838/184381866-0e917057-278e-471a-bf6b-299140d9f174.png)
 ![6nodejs](https://user-images.githubusercontent.com/48495838/184381867-10ef6d02-e4a2-46a8-9ee8-de99feb0ad3b.png)
 ![7php](https://user-images.githubusercontent.com/48495838/184381868-92211645-5f51-45d7-b0ab-c90073815f51.png)
-![8 net-framework](https://user-images.githubusercontent.com/48495838/184381869-aebc7acb-6a7f-4024-9327-b1e9b37914bc.png)
+![8 net-framework](https://user-images.githubusercontent.com/48495838/184383123-42c0688a-fe6a-4648-990d-cee0786b8933.png)
 ![9xamarin](https://user-images.githubusercontent.com/48495838/184381872-88b62bd6-ea8c-426d-b0a8-7d012a0faa09.png)
 ![10mongodb](https://user-images.githubusercontent.com/48495838/184381873-b6a34804-469a-4ee7-839b-daa05d306929.png)
 ![11microsoft-sql-server](https://user-images.githubusercontent.com/48495838/184381875-21b1c55c-7558-4303-ba29-3898374219cf.png)
