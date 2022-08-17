@@ -38,7 +38,7 @@
 
 <div align="right"> 
 
-<H4> 📧 Contato/Contact: </H4>
+<H4> 📧 Contact/Contato: </H4>
 
 [![Gmail Badge](https://img.shields.io/badge/-renandbm.rb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renandbm.rb@gmail.com)](mailto:renandbm.rb@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-borba-95b294a3/)](https://www.linkedin.com/in/renan-borba-95b294a3/) 
