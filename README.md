@@ -2,7 +2,9 @@
 
 <img align="right" width="294" height="294" src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif"/>
 <br>
-<H3> About me / Sobre mim 🚀👨‍🚀 </H3>
+<div align="left"> 
+<ul> <H3> About me / Sobre mim 🚀👨‍🚀 </H3> </ul>
+</div>
 
 💠 For more than 8 years in constant technical training, participation in internships <br>
 and occupations in the IT area.
@@ -32,9 +34,6 @@ maintenance technician at Bebedouro Regional Hospital.
 ![16azure](https://user-images.githubusercontent.com/48495838/184381889-a20c8197-4ea5-4c91-9b2b-fb1ad26ab375.png)
 ![17heroku](https://user-images.githubusercontent.com/48495838/184381891-cf1f074c-2e9c-448d-88bf-2f0ba6ba8a24.png)
 ![18git](https://user-images.githubusercontent.com/48495838/185234370-c300d221-c6eb-40c0-9356-f39c8168c11c.png)
-
-
-
 
 <div align="left">
 
