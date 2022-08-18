@@ -9,7 +9,10 @@
 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), specializing in Post-Graduation Lato Sensu in Digital Health at UFG, IT equipment maintenance technician at Bebedouro Regional Hospital. 
 
 💠 Enthusiast and generalist in the field of technology, 25 years old.
-<br><br>
+<br>
+
+
+
 ### 👨‍💻 Tech Stack:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories) 
