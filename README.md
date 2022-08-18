@@ -16,8 +16,6 @@ maintenance technician at Bebedouro Regional Hospital.
 
 ### 👨‍💻 Tech Stack:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories) 
-
 ![1javascript](https://user-images.githubusercontent.com/48495838/184381858-1e15eaa8-cc43-4a6c-b977-93227dd9b943.png)
 ![3css3](https://user-images.githubusercontent.com/48495838/184381864-8770ba96-1c0b-4ae3-8f46-9d71c55b071f.png)
 ![4bootstrap](https://user-images.githubusercontent.com/48495838/184381865-3f6b7fa2-bb39-4f2b-9f9d-156fd3b09014.png)
@@ -34,6 +32,8 @@ maintenance technician at Bebedouro Regional Hospital.
 ![16azure](https://user-images.githubusercontent.com/48495838/184381889-a20c8197-4ea5-4c91-9b2b-fb1ad26ab375.png)
 ![17heroku](https://user-images.githubusercontent.com/48495838/184381891-cf1f074c-2e9c-448d-88bf-2f0ba6ba8a24.png)
 ![18git](https://user-images.githubusercontent.com/48495838/185234370-c300d221-c6eb-40c0-9356-f39c8168c11c.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories) 
 
 
 <div align="left">
