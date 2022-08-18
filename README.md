@@ -8,7 +8,8 @@
 and occupations in the IT area. </li>
 
 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), specializing <br>
-in the Post-Graduation Lato Sensu in Digital Health at UFG, IT equipment maintenance technician at Bebedouro Regional Hospital. 
+in the Post-Graduation Lato Sensu in Digital Health at UFG, IT equipment <br>
+maintenance technician at Bebedouro Regional Hospital. 
 
 💠 Enthusiast and generalist in the field of technology, 25 years old.
 <br>
