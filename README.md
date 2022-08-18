@@ -2,12 +2,14 @@
 
 <img align="right" width="294" height="294" src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif"/>
 <br>
-
-
+<ul>
 <H3> About me / Sobre mim 🚀👨‍🚀 </H3>
+  💠 For more than 8 years in constant technical training, participation in internships and occupations in the IT area. </li>
+  <br> 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), specializing in Post-Graduation Lato Sensu in Digital Health at UFG, IT equipment maintenance technician at Bebedouro Regional Hospital. </li>
+  <br> 💠 Enthusiast and generalist in the field of technology, 25 years old. </li>
 
-💠 For more than 8 years in constant technical training, participation in internships and occupations in the IT area. <br> 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), specializing in Post-Graduation Lato Sensu in Digital Health at UFG, IT equipment maintenance technician at Bebedouro Regional Hospital. <br> 💠 Enthusiast and generalist in the field of technology, 25 years old.
 <br><br>
+
 ### 👨‍💻 Tech Stack:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories) 
@@ -35,6 +37,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBorba&show_icons=true&layout=compact&theme=dark&hide=issues,contribs&line_height=23)](https://github.com/RenanBorba?tab=overview&from=2018-01-01&to=2025-01-01) 
 
 </div>
+
+</ul>
 
 <div align="right"> 
 
