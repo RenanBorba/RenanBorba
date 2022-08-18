@@ -4,7 +4,7 @@
 <br>
 <H3> About me / Sobre mim 🚀👨‍🚀 </H3>
 
-💠 For more than 8 years in constant technical training, participation in internships 
+💠 For more than 8 years in constant technical training, participation in internships <br>
 and occupations in the IT area. </li>
 
 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), specializing in Post-Graduation Lato Sensu in Digital Health at UFG, IT equipment maintenance technician at Bebedouro Regional Hospital. 
