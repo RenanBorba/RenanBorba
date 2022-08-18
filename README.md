@@ -42,8 +42,6 @@ maintenance technician at Bebedouro Regional Hospital.
 
 <div align="right"> 
 
-<br>
-
 ![contact](https://user-images.githubusercontent.com/48495838/185457545-be6d44b5-2e95-4a2e-8197-112b289a24ff.png)
 
 [![Gmail Badge](https://img.shields.io/badge/-renandbm.rb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renandbm.rb@gmail.com)](mailto:renandbm.rb@gmail.com)
