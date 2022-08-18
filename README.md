@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header"/>
 
-<img align="right" width="294" height="294" src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif"/>
+<img align="right" width="294" height="294" src="https://media.giphy.com/media/U3ssu6hFhq2SAzMmp8/giphy-downsized-large.gif"/>
 
 ![about](https://user-images.githubusercontent.com/48495838/185456907-b5d11634-0372-4dbe-a999-f85207f05cf7.png)
 
