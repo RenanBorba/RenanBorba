@@ -33,12 +33,12 @@ maintenance technician at Bebedouro Regional Hospital.
 ![17heroku](https://user-images.githubusercontent.com/48495838/184381891-cf1f074c-2e9c-448d-88bf-2f0ba6ba8a24.png)
 ![18git](https://user-images.githubusercontent.com/48495838/185234370-c300d221-c6eb-40c0-9356-f39c8168c11c.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories) 
+
 
 
 <div align="left">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBorba&show_icons=true&layout=compact&theme=dark&hide=issues,contribs&line_height=23)](https://github.com/RenanBorba?tab=overview&from=2018-01-01&to=2025-01-01) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBorba&show_icons=true&layout=compact&theme=dark&hide=issues,contribs&line_height=23)](https://github.com/RenanBorba?tab=overview&from=2018-01-01&to=2025-01-01) 
 
 </div>
 
