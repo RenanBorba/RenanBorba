@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header"/>
 
 <img align="right" width="294" height="294" src="https://media.giphy.com/media/hSZE91BfpA49JruObj/giphy-downsized-large.gif"/>
-<br>
-<div align="left"> 
-<ul> <H3> About me / Sobre mim 🚀👨‍🚀 </H3> </ul>
-</div>
+
+![about](https://user-images.githubusercontent.com/48495838/185456907-b5d11634-0372-4dbe-a999-f85207f05cf7.png)
 
 💠 For more than 8 years in constant technical training, participation in internships <br>
 and occupations in the IT area.
@@ -16,7 +14,8 @@ maintenance technician at Bebedouro Regional Hospital.
 💠 Enthusiast and generalist in the field of technology, 25 years old.
 <br><br>
 
-### 👨‍💻 Tech Stack:
+
+![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
 
 ![1javascript](https://user-images.githubusercontent.com/48495838/184381858-1e15eaa8-cc43-4a6c-b977-93227dd9b943.png)
 ![3css3](https://user-images.githubusercontent.com/48495838/184381864-8770ba96-1c0b-4ae3-8f46-9d71c55b071f.png)
@@ -43,7 +42,9 @@ maintenance technician at Bebedouro Regional Hospital.
 
 <div align="right"> 
 
-<H4> 📧 Contact/Contato: </H4>
+<br>
+
+![contact](https://user-images.githubusercontent.com/48495838/185457545-be6d44b5-2e95-4a2e-8197-112b289a24ff.png)
 
 [![Gmail Badge](https://img.shields.io/badge/-renandbm.rb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renandbm.rb@gmail.com)](mailto:renandbm.rb@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-borba-95b294a3/)](https://www.linkedin.com/in/renan-borba-95b294a3/) 
