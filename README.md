@@ -11,7 +11,7 @@ and occupations in the IT area.
 specialist in the Postgraduate Lato Sensu in Digital Health at UFG, IT equipment <br>
 maintenance technician at Bebedouro Regional Hospital. 
 
-💠 Enthusiast and generalist in the field of technology, 25 years old.
+💠 Enthusiast and generalist in the field of technology, 26 years old.
 <br><br>
 
 
