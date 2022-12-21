@@ -4,7 +4,7 @@
 
 ![about](https://user-images.githubusercontent.com/48495838/185456907-b5d11634-0372-4dbe-a999-f85207f05cf7.png)
 
-💠 For more than 8 years in constant technical training, participation in internships <br>
+💠 For more than 9 years in constant technical training, participation in internships <br>
 and occupations in the IT area.
 
 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (2018), graduated <br>
