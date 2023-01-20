@@ -48,6 +48,8 @@ maintenance technician at Bebedouro Regional Hospital.
 [![Gmail Badge](https://img.shields.io/badge/-renandbm.rb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renandbm.rb@gmail.com)](mailto:renandbm.rb@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-borba-95b294a3/)](https://www.linkedin.com/in/renan-borba-95b294a3/) 
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/renanborba2)](https://www.behance.net/renanborba2) 
+  
+🙌 Looking for new opportunities
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=158&section=footer"/>
