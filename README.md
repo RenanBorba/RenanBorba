@@ -2,7 +2,7 @@
 
 <img align="right" width="294" height="294" src="https://camo.githubusercontent.com/8e4e640f5c17a36fbc034c84495218c8409a9596141c6c43329a79b88c20aeae/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f553373737536684668713253417a4d6d70382f67697068792d646f776e73697a65642d6c617267652e676966"/>
 
-![about](https://user-images.githubusercontent.com/48495838/185456907-b5d11634-0372-4dbe-a999-f85207f05cf7.png)
+![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)
 
 💠 For more than 9 years in constant technical training, participation in internships <br>
 and occupations in the IT area.
