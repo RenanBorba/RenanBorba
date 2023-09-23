@@ -10,7 +10,7 @@ and occupations in the IT area.
 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (18), graduated specialist in the Postgraduate Lato Sensu in Digital Health at UFG (22), Support Technician at Bebedouro Regional Hospital (Hospital de Amor • Fundação Pio XII).
  
 
-💠 Enthusiast and generalist in the field of technology, 26 years old.
+💠 Enthusiast in the field of technology, 26 years old. 🚀 
 <br><br>
 
 
