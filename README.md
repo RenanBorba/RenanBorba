@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header"/>
 
-<img align="right" width="294" height="294" src="https://camo.githubusercontent.com/8e4e640f5c17a36fbc034c84495218c8409a9596141c6c43329a79b88c20aeae/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f553373737536684668713253417a4d6d70382f67697068792d646f776e73697a65642d6c617267652e676966"/>
+<img align="right" width="294" height="294" src="https://media.giphy.com/media/U3ssu6hFhq2SAzMmp8/giphy-downsized.gif"/>
 
 ![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)
 
