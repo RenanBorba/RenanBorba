@@ -8,7 +8,7 @@
 and occupations in the IT area.
 
 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (18), postgraduated 
-in Digital Health at UFG (22), Cloud Microsoft Certifield AZ-900, Support Technician at Bebedouro Regional Hospital (Hospital de Amor).
+in Lato sensu Digital Health at UFG (22), Cloud Microsoft Certifield AZ-900, Support Technician at Bebedouro Regional Hospital (Hospital de Amor).
  
 
 💠 Enthusiast in the field of technology, 27 years old. 🚀 
