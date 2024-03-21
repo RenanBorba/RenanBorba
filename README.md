@@ -4,12 +4,9 @@
 
 ![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)
 
-💠 For more than 9 years in constant technical training, participation in internships <br>
-and occupations in the IT area.
+💠 For more than 9 years in constant technical training, participation in internships, works and events in the IT area.
 
-💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the UNIFAFIBE University Center (18), postgraduated 
-in Lato sensu Digital Health at UFG (22), Cloud Microsoft Certifield AZ-900 (23), Support Technician at Bebedouro Regional Hospital (Hospital de Amor).
- 
+💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the Centro Universitário UNIFAFIBE (2018), graduated specialist in the Postgraduate Lato Sensu in Digital Health at Universidade Federal de Goiás UFG (2022); Cloud Microsoft Certifield AZ-900, Scrum Foundation Professional SFPC. Starting career as an IT Project Analyst I at Hospital de Amor.
 
 💠 Enthusiast in the field of technology, 27 years old. 🚀 
 <br><br>
