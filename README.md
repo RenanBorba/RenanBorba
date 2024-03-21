@@ -8,7 +8,8 @@
 
 💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the Centro Universitário UNIFAFIBE (2018), graduated specialist in the Postgraduate Lato Sensu in Digital Health at Universidade Federal de Goiás UFG (2022), studying postgraduate in the IT Project Management, Cloud Microsoft Certifield AZ-900, Scrum Foundation Professional SFPC.
 
-💠 Starting career as an IT Project Analyst I at Hospital de Amor. Enthusiast in the field of technology, 27 years old. 🚀 
+💠 Starting career as an IT Project Analyst I at Hospital de Amor. <br> 
+Enthusiast in the field of technology, 27 years old. 🚀 
 <br><br>
 
 
