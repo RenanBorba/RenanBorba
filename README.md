@@ -12,7 +12,6 @@
 Enthusiast in the field of technology, 28 years old. 🚀 
 <br><br> 
 
-
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
 
 ![1javascript](https://user-images.githubusercontent.com/48495838/184381858-1e15eaa8-cc43-4a6c-b977-93227dd9b943.png)
