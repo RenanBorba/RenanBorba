@@ -32,7 +32,12 @@ Enthusiast in the field of technology, 29 years old. 🚀
 
 <div align="left">
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBorba&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBorba&show_icons=true&layout=compact&theme=dark&hide=issues,contribs&line_height=30.5)](https://github.com/RenanBorba?tab=overview&from=2018-01-01&to=2030-12-31) 
+-->
+
+
+[![GitHub Impact](https://github-readme-stats-academic.vercel.app/api/academic?username=RenanBorba&theme=dark)](https://github.com/RenanBorba/github-readme-stats-academic&theme=dark)
 
 </div>
 
