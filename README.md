@@ -6,7 +6,7 @@
 
 💠 For more than 10 years in constant technical training, participation in internships, works and events in the IT area.
 
-💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the Centro Universitário UNIFAFIBE (2018), specialist degree in the Postgraduate Lato Sensu in Digital Health at UFG (2022), degree in the Postgraduate Lato Sensu in IT Project Management, Cloud Microsoft Certifield AZ-900 and Scrum Foundation Professional SFPC.
+💠 Mid-level computer technician of SENAC (2014), graduated in the Bachelor of Information Systems course at the Centro Universitário UNIFAFIBE (2018), specialist degree in the Postgraduate Lato Sensu in Digital Health at UFG (2022), degree in the Postgraduate Lato Sensu in IT Project Management, Cloud Microsoft Certifield AZ-900 and Scrum Foundation Professional SFPC. 
 
 💠 JS 🌟 React 🌟 Node.js <br> 
 Enthusiast in the field of technology, 29 years old. 🚀 
