@@ -29,7 +29,7 @@ Enthusiast in the field of technology, 29 years old. 🚀
 ![15google-cloud](https://user-images.githubusercontent.com/48495838/184381886-f180e1d4-22b5-4bef-a335-df70500875e1.png)
 ![16azure](https://user-images.githubusercontent.com/48495838/184381889-a20c8197-4ea5-4c91-9b2b-fb1ad26ab375.png)
 ![17heroku](https://user-images.githubusercontent.com/48495838/184381891-cf1f074c-2e9c-448d-88bf-2f0ba6ba8a24.png)
-
+<img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/5703905a-bc07-49b6-a145-402f95f33d33" />
 <div align="left">
 
 <!-- 
