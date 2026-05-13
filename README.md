@@ -14,18 +14,15 @@ Enthusiast in the field of technology, 29 years old. 🚀
 <!--![7php](https://user-images.githubusercontent.com/48495838/184381868-92211645-5f51-45d7-b0ab-c90073815f51.png)-->
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
-
 ![1javascript](https://user-images.githubusercontent.com/48495838/184381858-1e15eaa8-cc43-4a6c-b977-93227dd9b943.png)
 ![3css3](https://user-images.githubusercontent.com/48495838/184381864-8770ba96-1c0b-4ae3-8f46-9d71c55b071f.png)
 ![4bootstrap](https://user-images.githubusercontent.com/48495838/184381865-3f6b7fa2-bb39-4f2b-9f9d-156fd3b09014.png)
 ![5reagir](https://user-images.githubusercontent.com/48495838/184381866-0e917057-278e-471a-bf6b-299140d9f174.png)
-
 ![6nodejs](https://user-images.githubusercontent.com/48495838/184381867-10ef6d02-e4a2-46a8-9ee8-de99feb0ad3b.png)
 ![9xamarin](https://user-images.githubusercontent.com/48495838/184381872-88b62bd6-ea8c-426d-b0a8-7d012a0faa09.png)
 ![11microsoft-sql-server](https://user-images.githubusercontent.com/48495838/184381875-21b1c55c-7558-4303-ba29-3898374219cf.png)
 ![12-mysql](https://user-images.githubusercontent.com/48495838/184381878-7e415815-96a2-447d-a516-d0264642f62d.png)
 ![13postgreesql](https://user-images.githubusercontent.com/48495838/184381880-96e81d69-982e-45ec-836e-970fcc02e6f4.png)
-
 ![10mongodb](https://user-images.githubusercontent.com/48495838/184381873-b6a34804-469a-4ee7-839b-daa05d306929.png)
 ![14amazon-web-services](https://user-images.githubusercontent.com/48495838/184381884-e7a942f2-da1a-42ae-b31b-7f475f085588.png)
 ![15google-cloud](https://user-images.githubusercontent.com/48495838/184381886-f180e1d4-22b5-4bef-a335-df70500875e1.png)
