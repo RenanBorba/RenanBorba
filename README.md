@@ -10,7 +10,11 @@
 
 💠 JS 🌟 Node.js 🌟 React <br> 
 Enthusiast in the field of technology, 29 years old. 🚀 
-<br><br> 
+
+<img src="https://komarev.com/ghpvc/?username=RenanBorba" alt="Visualizações do Perfil" />
+
+<br>
+
 <!--![7php](https://user-images.githubusercontent.com/48495838/184381868-92211645-5f51-45d7-b0ab-c90073815f51.png)-->
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
