@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header"/>
 
-<img align="right" width="294" height="294" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVhZjhvcmszbHN2NmlrdGoweDNnejhwOW1rd2M2ZmFvN2s0Z3ZjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/arJU78Os8iRXncFv3X/giphy.gif" 
+<img align="right" width="294" height="294" src="https://github.com/user-attachments/assets/1fe11d6b-d1ec-4367-82bd-c10f899346d7" 
 style="background: transparent;" />
 
 <!--![travolta](https://github.com/user-attachments/assets/1fe11d6b-d1ec-4367-82bd-c10f899346d7)-->
