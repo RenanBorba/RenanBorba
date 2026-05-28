@@ -49,7 +49,7 @@ Enthusiast in the field of technology, 29 years old. 🚀
 ![github contribution grid snake animation](https://raw.githubusercontent.com/RenanBorba/RenanBorba/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 
 ---
-## 📂 Projects
+## 📂⚛ Projects
 Check out my repositories:  
 [All GitHub Repositories](https://github.com/RenanBorba?tab=repositories)
 
