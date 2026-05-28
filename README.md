@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header"/>
 
-<img align="right" width="294" height="294" style="background: transparent" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVhZjhvcmszbHN2NmlrdGoweDNnejhwOW1rd2M2ZmFvN2s0Z3ZjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/arJU78Os8iRXncFv3X/giphy.gif"/>
+<img align="right" width="294" height="294" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVhZjhvcmszbHN2NmlrdGoweDNnejhwOW1rd2M2ZmFvN2s0Z3ZjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/arJU78Os8iRXncFv3X/giphy.gif" 
+style="background: transparent;" />
 
 ![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)
 
@@ -33,7 +34,7 @@ Enthusiast in the field of technology, 29 years old. 🚀
 ![15google-cloud](https://user-images.githubusercontent.com/48495838/184381886-f180e1d4-22b5-4bef-a335-df70500875e1.png)
 ![16azure](https://user-images.githubusercontent.com/48495838/184381889-a20c8197-4ea5-4c91-9b2b-fb1ad26ab375.png)
 ![17heroku](https://user-images.githubusercontent.com/48495838/184381891-cf1f074c-2e9c-448d-88bf-2f0ba6ba8a24.png)
-<img width="48" height="48" style="background: transparent" src="https://github.com/user-attachments/assets/5703905a-bc07-49b6-a145-402f95f33d33" />
+<img width="48" height="48" src="https://github.com/user-attachments/assets/5703905a-bc07-49b6-a145-402f95f33d33" style="background: transparent;" />
 <div align="left">
 
 <!-- 
