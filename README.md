@@ -23,7 +23,7 @@ Enthusiast in the field of technology, 29 years old. 🚀
 ![9xamarin](https://user-images.githubusercontent.com/48495838/184381872-88b62bd6-ea8c-426d-b0a8-7d012a0faa09.png)-->
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
-
+<!-- -->
 ![javascript](https://user-images.githubusercontent.com/48495838/184381858-1e15eaa8-cc43-4a6c-b977-93227dd9b943.png)
 ![nodejs](https://user-images.githubusercontent.com/48495838/184381867-10ef6d02-e4a2-46a8-9ee8-de99feb0ad3b.png)
 ![react](https://user-images.githubusercontent.com/48495838/184381866-0e917057-278e-471a-bf6b-299140d9f174.png)
@@ -37,6 +37,7 @@ Enthusiast in the field of technology, 29 years old. 🚀
 ![google-cloud](https://user-images.githubusercontent.com/48495838/184381886-f180e1d4-22b5-4bef-a335-df70500875e1.png)
 ![azure](https://user-images.githubusercontent.com/48495838/184381889-a20c8197-4ea5-4c91-9b2b-fb1ad26ab375.png)
 ![heroku](https://user-images.githubusercontent.com/48495838/184381891-cf1f074c-2e9c-448d-88bf-2f0ba6ba8a24.png)
+<img width="43" height="43" src="https://github.com/user-attachments/assets/b4a7d3d4-69cd-4a44-934f-de933e366a8d" />
 <img width="48" height="48" src="https://github.com/user-attachments/assets/5703905a-bc07-49b6-a145-402f95f33d33" />
 <img width="44" height="44" alt="Image" src="https://github.com/user-attachments/assets/274c8401-cc6c-4bee-9e78-ef732957d651" />
 <div align="left">
