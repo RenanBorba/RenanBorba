@@ -16,7 +16,7 @@ Enthusiast in the field of technology, 29 years old. 🚀
 
 <img src="https://komarev.com/ghpvc/?username=RenanBorba" alt="Visualizações do Perfil" />
 
-[![RenanBorba's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RenanBorba&theme=dark)](https://github.com/RenanBorba/github-readme-stats-fast)
+[![RenanBorba's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RenanBorba&theme=dark&layout=compact&hide=issues,contribs)](https://github.com/RenanBorba/github-readme-stats-fast)
 
 ---
 
