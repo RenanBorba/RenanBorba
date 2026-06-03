@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3290F7&height=170&section=header&text=Renan%20Borba%20👨‍💻&fontColor=FFFFFF&fontSize=38"/>
 
 <img align="right" width="294" height="294" src="https://github.com/user-attachments/assets/1fe11d6b-d1ec-4367-82bd-c10f899346d7" 
 style="background: transparent;" />
