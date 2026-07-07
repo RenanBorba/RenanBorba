@@ -30,8 +30,8 @@ Enthusiast in the field of technology, 29 years old. 🚀
 ![javascript](https://user-images.githubusercontent.com/48495838/184381858-1e15eaa8-cc43-4a6c-b977-93227dd9b943.png)
 ![nodejs](https://user-images.githubusercontent.com/48495838/184381867-10ef6d02-e4a2-46a8-9ee8-de99feb0ad3b.png)
 ![react](https://user-images.githubusercontent.com/48495838/184381866-0e917057-278e-471a-bf6b-299140d9f174.png)
+<img width="45" height="45" src="https://github.com/user-attachments/assets/34bb2a30-e3b1-4663-8989-ee351ea1e428" />
 <img width="40" height="40" src="https://github.com/user-attachments/assets/4a1d339e-2585-4fe7-b76f-30548ff36d20" />
-<img width="44" height="44" src="https://github.com/user-attachments/assets/34bb2a30-e3b1-4663-8989-ee351ea1e428" />
 ![bootstrap](https://user-images.githubusercontent.com/48495838/184381865-3f6b7fa2-bb39-4f2b-9f9d-156fd3b09014.png)
 ![mysql](https://user-images.githubusercontent.com/48495838/184381878-7e415815-96a2-447d-a516-d0264642f62d.png)
 ![postgreesql](https://user-images.githubusercontent.com/48495838/184381880-96e81d69-982e-45ec-836e-970fcc02e6f4.png)
