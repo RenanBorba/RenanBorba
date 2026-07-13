@@ -5,7 +5,7 @@ style="background: transparent;" />
 
 <!--![travolta](https://github.com/user-attachments/assets/1fe11d6b-d1ec-4367-82bd-c10f899346d7)-->
 
-![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)
+[![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)](https://github.com/RenanBorba)
 
 💠 For more than 10 years in constant technical training, participation in internships, works and events in the IT area.
 
@@ -33,7 +33,7 @@ Enthusiast in the field of technology, 29 years old. 🚀
 -->
 
 
-![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
+[![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)](https://github.com/RenanBorba?tab=repositories)
 <!-- -->
 [![javascript](https://user-images.githubusercontent.com/48495838/184381858-1e15eaa8-cc43-4a6c-b977-93227dd9b943.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![nodejs](https://user-images.githubusercontent.com/48495838/184381867-10ef6d02-e4a2-46a8-9ee8-de99feb0ad3b.png)](https://nodejs.org/)
