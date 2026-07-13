@@ -22,9 +22,12 @@ Enthusiast in the field of technology, 29 years old. 🚀
 
 <!--![3css3](https://user-images.githubusercontent.com/48495838/184381864-8770ba96-1c0b-4ae3-8f46-9d71c55b071f.png)
 ![7php](https://user-images.githubusercontent.com/48495838/184381868-92211645-5f51-45d7-b0ab-c90073815f51.png)
-![9xamarin](https://user-images.githubusercontent.com/48495838/184381872-88b62bd6-ea8c-426d-b0a8-7d012a0faa09.png)-->
-<!--![microsoft-sql-server](https://user-images.githubusercontent.com/48495838/184381875-21b1c55c-7558-4303-ba29-3898374219cf.png)-->
-<!--<img width="45" height="45" src="https://github.com/user-attachments/assets/34bb2a30-e3b1-4663-8989-ee351ea1e428" />-->
+![9xamarin](https://user-images.githubusercontent.com/48495838/184381872-88b62bd6-ea8c-426d-b0a8-7d012a0faa09.png)
+![microsoft-sql-server](https://user-images.githubusercontent.com/48495838/184381875-21b1c55c-7558-4303-ba29-3898374219cf.png)
+<<img width="45" height="45" src="https://github.com/user-attachments/assets/34bb2a30-e3b1-4663-8989-ee351ea1e428" />
+<img width="44" height="44" src="https://github.com/user-attachments/assets/b4a7d3d4-69cd-4a44-934f-de933e366a8d" />
+<img width="44" height="44" src="https://github.com/user-attachments/assets/274c8401-cc6c-4bee-9e78-ef732957d651" />
+<img width="44" height="44" src="https://github.com/user-attachments/assets/5703905a-bc07-49b6-a145-402f95f33d33" />-->
 
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
@@ -42,9 +45,9 @@ Enthusiast in the field of technology, 29 years old. 🚀
 ![google-cloud](https://user-images.githubusercontent.com/48495838/184381886-f180e1d4-22b5-4bef-a335-df70500875e1.png)
 ![azure](https://user-images.githubusercontent.com/48495838/184381889-a20c8197-4ea5-4c91-9b2b-fb1ad26ab375.png)
 ![heroku](https://user-images.githubusercontent.com/48495838/184381891-cf1f074c-2e9c-448d-88bf-2f0ba6ba8a24.png)
-<img width="44" height="44" src="https://github.com/user-attachments/assets/b4a7d3d4-69cd-4a44-934f-de933e366a8d" />
-<img width="44" height="44" src="https://github.com/user-attachments/assets/274c8401-cc6c-4bee-9e78-ef732957d651" />
-<img width="44" height="44" src="https://github.com/user-attachments/assets/5703905a-bc07-49b6-a145-402f95f33d33" />
+![docker](https://github.com/user-attachments/assets/7c213f9f-a06f-44a9-8084-35bec7b26ba6)
+![fhir](https://github.com/user-attachments/assets/db77f0b9-396c-406d-b009-b9c026dcbbad)
+![pbi](https://github.com/user-attachments/assets/c1523aca-7a87-438e-85f0-355eeb68c213)
 <div align="left">
 
 <!-- 
