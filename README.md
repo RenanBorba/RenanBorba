@@ -25,7 +25,7 @@ Enthusiast in the field of technology, 29 years old. 🚀
 ---
 
 <!--
-![css3](https://user-images.githubusercontent.com/48495838/184381864-8770ba96-1c0b-4ae3-8f46-9d71c55b071f.png)
+![css](https://user-images.githubusercontent.com/48495838/184381864-8770ba96-1c0b-4ae3-8f46-9d71c55b071f.png)
 ![php](https://user-images.githubusercontent.com/48495838/184381868-92211645-5f51-45d7-b0ab-c90073815f51.png)
 ![xamarin](https://user-images.githubusercontent.com/48495838/184381872-88b62bd6-ea8c-426d-b0a8-7d012a0faa09.png)
 ![microsoft-sql-server](https://user-images.githubusercontent.com/48495838/184381875-21b1c55c-7558-4303-ba29-3898374219cf.png)
